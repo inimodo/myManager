@@ -89,6 +89,8 @@
             <option class="c_ptext" value="Deadline">Deadline</option>
             <option class="c_ptext" value="Test">Test</option>
             <option class="c_ptext" value="Birthday">Birthday</option>
+            <option class="c_ptext" value="Work">Work</option>
+            <option class="c_ptext" value="Lab">Lab</option>
           </select>
           <button class="c_button" type="submit" name="save"><i class="fa fa-check" id="c_bico"></i></button>
           <button class="c_button" type="submit" name="delete"><i class="fa fa-close" id="c_bico" ></i></button>
